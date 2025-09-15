@@ -4,10 +4,6 @@
 
 ---
 
-## 📚 Education
-- **B.Tech in Information Technology** – DDU, Nadiad
-
----
 
 ## 💻 Skills
 
@@ -24,14 +20,17 @@
 ![XML](https://img.shields.io/badge/XML-E34F26?style=for-the-badge&logo=xml&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
-**Web Development:**  
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+**Web Development:**    
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![EJS](https://img.shields.io/badge/EJS-b4ca65?logo=ejs&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+
 
 **Core Concepts:**  
-Data Structures & Algorithms, OOPS, Competitive Programming
+Data Structures & Algorithms, OOPS, Competitive Programming, DBMS
 
 ---
 
@@ -63,7 +62,6 @@ Data Structures & Algorithms, OOPS, Competitive Programming
 
 ## 📫 Contact
 - **Email:** gondaliyaronak78@gmail.com  
-- **GitHub:** [github.com/ronak1743](https://github.com/ronak1743)  
 - **LinkedIn:** [linkedin.com/in/ronak-gondaliya](https://www.linkedin.com/in/ronak-gondaliya/)  
 
 ---
