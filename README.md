@@ -66,4 +66,5 @@ Data Structures & Algorithms, OOPS, Competitive Programming, DBMS
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronak1743&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ronak1743&show_icons=true&theme=radical&cache_seconds=0)
+
