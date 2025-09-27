@@ -47,21 +47,25 @@
 ---
 
 ## 🏆 Projects
-- **[Android Expense Tracker](https://github.com/ronak/Expense-Tracker)** – Track your daily expenses with Firebase.  
-- **[ATM Simulation](https://github.com/ronak/ATM-Simulation)** – Simulated ATM operations using Java.  
+- **[Android Expense Tracker](https://github.com/ronak/Expense-Tracker)** – Track your daily expenses with Firebase.Built with java,xml,android studio and Firebase.featuring user authentication, add expence with time and note and track total expence 
+- **[ATM Simulation](https://github.com/ronak/ATM-Simulation)** – Simulated ATM operations using Java and Mysql with use of JDBC and AWT.
+- **[Mini E-Commerce Platform](https://github.com/ronak1743/Mini_ECommers_platform)**- A mini E-Commerce platform built with JSP, Servlets, Java, and MySQL, featuring user authentication, shopping cart, and order management.
 
 ---
 
 ## 🥇 Achievements
 - [![CodeChef](https://img.shields.io/badge/CodeChef-1652-orange?logo=codechef)](https://www.codechef.com/users/error_four_04) 3★, Global Rank 267 in Starters 174  
 - [![Codeforces](https://img.shields.io/badge/Codeforces-1249-blue?logo=codeforces)](https://codeforces.com/profile/gondaliyaronak78)Pupil, Solved 400+ problems  
-- [![LeetCode](https://img.shields.io/badge/LeetCode-1683-yellow?logo=leetcode)](https://leetcode.com/gondaliyaronak78) Top 15%, solved 650+ problems
+- [![LeetCode](https://img.shields.io/badge/LeetCode-1683-yellow?logo=leetcode)](https://leetcode.com/gondaliyaronak78) Top 15%, solved 700+ problems
 - [![GFG](https://img.shields.io/badge/GeeksforGeeks-350-brightgreen?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ronak1743) Solved 350+ problems
+- [![Codolio](https://img.shields.io/badge/Codolio-1500-blue?logo=https://codolio.com/codolio_assets/codolio.svg&logoColor=white)]([https://www.codolio.com/user/yourusername](https://codolio.com/profile/Ronak78)) Solved 1500+ problems all over
+
+
 ---
 
 ## 🎖️ Extracurriculars & Events
 - **Organizing Team Member**, [DUHacks 4.0](https://duhacks.tech) – A National level Hackathon organized by GDG,DDU.
-- **Organizing Team Member**, CodeQuest 1.0 –A Collage-Level ICPC Contest organized by GDG,DDU.
+- **Organizing Team Member**, CodeQuest 1.0 & CodeQuest 2.0 –A Collage-Level ICPC Contest organized by GDG,DDU.
 
 ---
 
@@ -72,4 +76,3 @@
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ronak1743&show_icons=true&theme=radical&cache_seconds=0)
-
