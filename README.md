@@ -6,38 +6,43 @@
 
 
 ## 💻 Skills
+# 🚀 My Skills
 
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-%23007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![XML](https://img.shields.io/badge/XML-E34F26?style=for-the-badge&logo=xml&logoColor=white)
+## 🖥️ Languages
+![Java](https://img.shields.io/badge/Java-%23007396?style=flat-rounded&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-rounded&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-rounded&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-rounded&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-rounded&logo=javascript&logoColor=black)
+![XML](https://img.shields.io/badge/XML-E34F26?style=flat-rounded&logo=xml&logoColor=white)
 
-**Android Development:**  
-![Java](https://img.shields.io/badge/Java-%23007396?style=for-the-badge&logo=java&logoColor=white)
-![XML](https://img.shields.io/badge/XML-E34F26?style=for-the-badge&logo=xml&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+## 📱 Android Development
+![Java](https://img.shields.io/badge/Java-%23007396?style=flat-rounded&logo=java&logoColor=white)
+![XML](https://img.shields.io/badge/XML-E34F26?style=flat-rounded&logo=xml&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-rounded&logo=firebase&logoColor=white)
 
-**Web Development:**    
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![EJS](https://img.shields.io/badge/EJS-b4ca65?logo=ejs&logoColor=black)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+## 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-rounded&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-rounded&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-rounded&logo=node.js&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-b4ca65?style=flat-rounded&logo=jekyll&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-rounded&logo=express&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat-rounded&logo=java&logoColor=white)
+![Servlet](https://img.shields.io/badge/Servlet-007396?style=flat-rounded&logo=java&logoColor=white)
 
-
-**Core Concepts:**  
-Data Structures & Algorithms, OOPS, Competitive Programming, DBMS
-
----
+## 🧠 Core Concepts
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-6f42c1?style=flat-rounded&logo=algolia&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-F87171?style=flat-rounded&logo=java&logoColor=white)
+![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-F59E0B?style=flat-rounded&logo=codeforces&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-10B981?style=flat-rounded&logo=mysql&logoColor=white)
 
 ## 🛠️ Tools & IDEs
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-rounded&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-rounded&logo=intellij-idea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-rounded&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-rounded&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-rounded&logo=github&logoColor=white)
+
 
 ---
 
