@@ -1,4 +1,4 @@
-# Hi 👋, I'm Gondaliya Ronak
+# Hi 👋, I'm  Ronak Gondaliya
 
 **B.Tech IT Student at DDU, Nadiad | Java & Android Developer | Competitive Programmer | DSA Enthusiast**
 
