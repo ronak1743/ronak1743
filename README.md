@@ -29,6 +29,9 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-rounded&logo=express&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=flat-rounded&logo=java&logoColor=white)
 ![Servlet](https://img.shields.io/badge/Servlet-007396?style=flat-rounded&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-rounded&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-rounded&logo=spring-boot&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-rounded&logo=tailwindcss&logoColor=white)
 
 ## 🧠 Core Concepts
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-6f42c1?style=flat-rounded&logo=algolia&logoColor=white)
@@ -42,6 +45,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-rounded&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-rounded&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-rounded&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-rounded&logo=postman&logoColor=white)
 
 
 ---
