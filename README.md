@@ -51,7 +51,8 @@
 ---
 
 ## 🏆 Projects
-- **[Android Expense Tracker](https://github.com/ronak/Expense-Tracker)** – Track your daily expenses with Firebase.Built with java,xml,android studio and Firebase.featuring user authentication, add expence with time and note and track total expence 
+- **[Android Expense Tracker](https://github.com/ronak/Expense-Tracker)** – Track your daily expenses with Firebase.Built with java,xml,android studio and Firebase.featuring user authentication, add expence with time and note and track total expence
+- **[Byte Breaker](https://github.com/ronak1743/Byte-Breaker)** -An Android app that compresses and resizes images with adjustable quality and resolution. Built using Java, Dexter, and Zelory Compressor, it reduces image size efficiently while preserving visual quality. 
 - **[ATM Simulation](https://github.com/ronak/ATM-Simulation)** – Simulated ATM operations using Java and Mysql with use of JDBC and AWT.
 - **[Mini E-Commerce Platform](https://github.com/ronak1743/Mini_ECommers_platform)**- A mini E-Commerce platform built with JSP, Servlets, Java, and MySQL, featuring user authentication, shopping cart, and order management.
 
