@@ -63,15 +63,15 @@
 - [![Codeforces](https://img.shields.io/badge/Codeforces-1249-blue?logo=codeforces)](https://codeforces.com/profile/gondaliyaronak78)Pupil, Solved 400+ problems  
 - [![LeetCode](https://img.shields.io/badge/LeetCode-1683-yellow?logo=leetcode)](https://leetcode.com/gondaliyaronak78) Top 15%, solved 700+ problems
 - [![GFG](https://img.shields.io/badge/GeeksforGeeks-350-brightgreen?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ronak1743) Solved 350+ problems
-- [![Codolio](https://img.shields.io/badge/Codolio-1500-blue?logo=https://codolio.com/codolio_assets/codolio.svg&logoColor=white)]([https://www.codolio.com/user/yourusername](https://codolio.com/profile/Ronak78)) Solved 1500+ problems all over
+- [![Codolio](https://img.shields.io/badge/Codolio-1500-blue?logo=https://codolio.com/codolio_assets/codolio.svg&logoColor=white)]([https://www.codolio.com/user/yourusername](https://codolio.com/profile/Ronak78)) Solved 1600+ problems all over
 
 
 ---
 
 ## 🎖️ Extracurriculars & Events
-- **Organizing Team Member**, [DUHacks 4.0](https://duhacks.tech) – A National level Hackathon organized by GDG,DDU.
+- **Organizing Team Member**, [DUHacks 4.0](https://duhacks.tech) & [DUHacks 5.0](https://duhacks5.tech) –  National level Hackathon organized by GDG,DDU.
 - **Organizing Team Member**, CodeQuest 1.0 & CodeQuest 2.0 –A Collage-Level ICPC Contest organized by GDG,DDU.
-
+- **Active CP Team Member** At Google Developer Group (GDG DDU).
 ---
 
 ## 📫 Contact
@@ -80,4 +80,4 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ronak1743&show_icons=true&theme=radical&cache_seconds=0)
+![GitHub stats](https://github-ranked.vercel.app/api/rank/ronak1743)
