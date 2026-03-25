@@ -59,7 +59,11 @@
 
 - **Android Expense Tracker** :
    - A mobile app to track daily expenses with **Java, XML, Android Studio, and Firebase**. Features **user authentication, expense logging with notes & timestamps, and total expense tracking** for easy financial management.
-  - 🔗 [GitHub Repository](https://github.com/ronak1743/Expense-Tracker) 
+  - 🔗 [GitHub Repository](https://github.com/ronak1743/Expense-Tracker)
+
+- **Sudoku-Ninja**
+  - A Java-based Sudoku game built using **Java AWT and Backtracking Algorithm**. Features **multiple difficulty levels, real-time input validation, hint system, automatic solver, timer tracking, and dynamic score calculation** for an interactive Sudoku experience.
+  - 🔗 [GitHub Repository](https://github.com/ronak1743/Sudoku-Ninja)
   
 - **ATM Simulator System**
     - A Java-based ATM simulator built with **Java AWT, JDBC, and MySQL**. Features **login (Card No + PIN), deposits, withdrawals, quick withdrawals, balance inquiry, PIN change, and transaction history** for realistic ATM operations.
