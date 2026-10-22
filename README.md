@@ -1,6 +1,6 @@
 # Hi 👋, I'm  Ronak Gondaliya
 
-**B.Tech IT Student at DDU, Nadiad | Java & Android Developer | Competitive Programmer | DSA Enthusiast**
+**B.Tech IT Student at DDU, Nadiad | Java Developer | Competitive Programmer | DSA Enthusiast**
 
 ---
 
@@ -40,6 +40,19 @@
 ![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-F59E0B?style=flat-rounded&logo=codeforces&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-10B981?style=flat-rounded&logo=mysql&logoColor=white)
 
+## 🏗️ System Design
+![High-Level Design](https://img.shields.io/badge/High--Level%20Design-34495E?style=flat-rounded&logo=diagramsdotnet&logoColor=white)
+![Low-Level Design](https://img.shields.io/badge/Low--Level%20Design-3498DB?style=flat-rounded&logo=blueprint&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-F39C12?style=flat-rounded&logo=thealgorithms&logoColor=white)
+![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-16A085?style=flat-rounded&logo=codementor&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-2ECC71?style=flat-rounded&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-007ACC?style=flat-rounded&logo=fastapi&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database%20Design-336791?style=flat-rounded&logo=postgresql&logoColor=white)
+![Caching](https://img.shields.io/badge/Caching-DC382D?style=flat-rounded&logo=redis&logoColor=white)
+![Load Balancing](https://img.shields.io/badge/Load%20Balancing-6C5CE7?style=flat-rounded&logo=nginx&logoColor=white)
+![Scalability](https://img.shields.io/badge/Scalability-00A8A8?style=flat-rounded&logo=icloud&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-2C3E50?style=flat-rounded&logo=apachekafka&logoColor=white)
+
 ## 🛠️ Tools & IDEs
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-rounded&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-rounded&logo=intellij-idea&logoColor=white)
@@ -57,9 +70,9 @@
   - 🌐 [Live Demo](https://campus-conect.xyz)
   - 🔗 [GitHub Repository](https://github.com/vasuchandrani/Campus-Connect) 
 
-- **Android Expense Tracker** :
-   - A mobile app to track daily expenses with **Java, XML, Android Studio, and Firebase**. Features **user authentication, expense logging with notes & timestamps, and total expense tracking** for easy financial management.
-  - 🔗 [GitHub Repository](https://github.com/ronak1743/Expense-Tracker)
+- **PriceHawk:**
+  - Developed a full-stack Chrome extension (Manifest V3) with a Spring Boot 3 & PostgreSQL backend to track live prices across Amazon and Flipkart with 1-click DOM scraping. Engineered cross-platform deal matching, synchronized SVG price history charts, and an automated scheduler dispatching instant drop alerts via email.
+  - 🔗 [GitHub Repository](https://github.com/ronak1743/PriceHawk) 
 
 - **Sudoku-Ninja**
   - A Java-based Sudoku game built using **Java AWT and Backtracking Algorithm**. Features **multiple difficulty levels, real-time input validation, hint system, automatic solver, timer tracking, and dynamic score calculation** for an interactive Sudoku experience.
@@ -72,10 +85,10 @@
 
 ## 🥇 Achievements
 - [![CodeChef](https://img.shields.io/badge/CodeChef-1652-orange?logo=codechef)](https://www.codechef.com/users/error_four_04) 3★, Global Rank 267 in Starters 174  
-- [![Codeforces](https://img.shields.io/badge/Codeforces-1249-blue?logo=codeforces)](https://codeforces.com/profile/gondaliyaronak78)Pupil, Solved 400+ problems  
-- [![LeetCode](https://img.shields.io/badge/LeetCode-1683-yellow?logo=leetcode)](https://leetcode.com/gondaliyaronak78) Top 15%, solved 750+ problems
-- [![GFG](https://img.shields.io/badge/GeeksforGeeks-400-brightgreen?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ronak1743) Solved 400+ problems
-- [![Codolio](https://img.shields.io/badge/Codolio-1600-blue?logo=https://codolio.com/codolio_assets/codolio.svg&logoColor=white)]([https://www.codolio.com/user/yourusername](https://codolio.com/profile/Ronak78)) Solved 1600+ problems all over
+- [![Codeforces](https://img.shields.io/badge/Codeforces-1249-blue?logo=codeforces)](https://codeforces.com/profile/gondaliyaronak78)Pupil, Solved 450+ problems  
+- [![LeetCode](https://img.shields.io/badge/LeetCode-1683-yellow?logo=leetcode)](https://leetcode.com/gondaliyaronak78) Top 15%, solved 850+ problems
+- [![GFG](https://img.shields.io/badge/GeeksforGeeks-400-brightgreen?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ronak1743) Solved 480+ problems
+- [![Codolio](https://img.shields.io/badge/Codolio-1600-blue?logo=https://codolio.com/codolio_assets/codolio.svg&logoColor=white)]([https://www.codolio.com/user/yourusername](https://codolio.com/profile/Ronak78)) Solved 1900+ problems all over
 
 
 ---
@@ -88,7 +101,8 @@
 
 ## 📫 Contact
 - **Email:** gondaliyaronak78@gmail.com  
-- **LinkedIn:** [linkedin.com/in/ronak-gondaliya](https://www.linkedin.com/in/ronak-gondaliya/)  
+- **LinkedIn:** [linkedin.com/in/ronak-gondaliya](https://www.linkedin.com/in/ronak-gondaliya/)
+- **Portfolio:** [ronakgondaliya.me](https://ronakgondaliya.me)
 
 ---
 
