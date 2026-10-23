@@ -88,7 +88,7 @@
 - [![Codeforces](https://img.shields.io/badge/Codeforces-1249-blue?logo=codeforces)](https://codeforces.com/profile/gondaliyaronak78)Pupil, Solved 450+ problems  
 - [![LeetCode](https://img.shields.io/badge/LeetCode-1683-yellow?logo=leetcode)](https://leetcode.com/gondaliyaronak78) Top 15%, solved 850+ problems
 - [![GFG](https://img.shields.io/badge/GeeksforGeeks-480-brightgreen?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ronak1743) Solved 480+ problems
-- [![Codolio](https://img.shields.io/badge/Codolio-1900-blue?logo=https://codolio.com/codolio_assets/codolio.svg&logoColor=white)]((https://codolio.com/profile/Ronak78)) Solved 1900+ problems all over
+- [![Codolio](https://img.shields.io/badge/Codolio-1900-blue?logo=https://codolio.com/codolio_assets/codolio.svg&logoColor=white)](https://codolio.com/profile/Ronak78) Solved 1900+ problems all over
 
 
 ---
